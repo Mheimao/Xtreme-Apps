@@ -1,11 +1,11 @@
-App(
-    appid="orgasmotron",
-    name="Orgasmotron",
+应用程序（
+    appid =“性高潮”，
+    名称=“性高潮”，
     apptype=FlipperAppType.EXTERNAL,
-    entry_point="orgasmotron_app",
+    入口点=“orgasmotron_app”，
     cdefines=["ORGASMOTRON"],
-    requires=["gui"],
-    stack_size=1 * 1024,
+    需要=[“gui”]，
+    堆栈大小=1 * 1024，
     fap_icon="orgasmotron_10px.png",
-    fap_category="Tools",
-)
+    fap_category="工具",
+）
